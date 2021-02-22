@@ -1,0 +1,4 @@
+export const RECOIL_TYPE = {
+  SEARCH_LIST: 'SEARCH_LIST',
+  GET_SEARCH_LIST: 'GET_SEARCH_LIST',
+};
